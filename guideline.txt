@@ -1,0 +1,3 @@
+Hello,
+
+Here we will collect workflows from different scientific workflow repostitories for the mostly used scientific workflow management systems. Later, we will try to replicate/reproduce existing workflows in the respective swfms. Finally our plan is to create a tools recommendation system using ml which will be swfms agnostic.
